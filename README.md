@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**SirErico/SirErico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics and autonomous systems master's student passionate about intelligent systems, motion planning, and visual perception;<br>
+Currently working on projects involving **ROS2**, **path planning**, **reinforcement learning**, and **deep learning for robotics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Interests: **autonomous navigation**, **robot vision**, **reinforcement learning**
+- 🌱 Currently learning: all sorts of different topics
+
+---
+
+My Projects:
+- Aware
+
