@@ -8,8 +8,5 @@ Currently working on projects involving **ROS2**, **path planning**, **reinforce
 - 🧠 Interests: **autonomous navigation**, **robot vision**, **reinforcement learning**
 - 🌱 Currently learning: all sorts of different topics
 
----
 
-My Projects:
-- Aware
 
