@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-I'm a robotics and autonomous systems master's student passionate about intelligent systems, motion planning, and visual perception;<br>
-Currently working on projects involving **ROS2**, **path planning**, **reinforcement learning**, and **deep learning for robotics**.
+I'm a robotics and autonomous systems master's student passionate about intelligent systems, motion planning, and visual perception.<br>
+Currently working on projects involving **ROS2**, **path planning**, **reinforcement learning**, and **computer vision**.
 
 ---
 
